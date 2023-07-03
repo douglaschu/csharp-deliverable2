@@ -1,0 +1,15 @@
+/Users/doug/Documents/Coding/grand-circus/back-end/unit1/deliverable2/csharp-deliverable2/deliverable2/bin/Debug/net7.0/deliverable2
+/Users/doug/Documents/Coding/grand-circus/back-end/unit1/deliverable2/csharp-deliverable2/deliverable2/bin/Debug/net7.0/deliverable2.deps.json
+/Users/doug/Documents/Coding/grand-circus/back-end/unit1/deliverable2/csharp-deliverable2/deliverable2/bin/Debug/net7.0/deliverable2.runtimeconfig.json
+/Users/doug/Documents/Coding/grand-circus/back-end/unit1/deliverable2/csharp-deliverable2/deliverable2/bin/Debug/net7.0/deliverable2.dll
+/Users/doug/Documents/Coding/grand-circus/back-end/unit1/deliverable2/csharp-deliverable2/deliverable2/bin/Debug/net7.0/deliverable2.pdb
+/Users/doug/Documents/Coding/grand-circus/back-end/unit1/deliverable2/csharp-deliverable2/deliverable2/obj/Debug/net7.0/deliverable2.csproj.AssemblyReference.cache
+/Users/doug/Documents/Coding/grand-circus/back-end/unit1/deliverable2/csharp-deliverable2/deliverable2/obj/Debug/net7.0/deliverable2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/doug/Documents/Coding/grand-circus/back-end/unit1/deliverable2/csharp-deliverable2/deliverable2/obj/Debug/net7.0/deliverable2.AssemblyInfoInputs.cache
+/Users/doug/Documents/Coding/grand-circus/back-end/unit1/deliverable2/csharp-deliverable2/deliverable2/obj/Debug/net7.0/deliverable2.AssemblyInfo.cs
+/Users/doug/Documents/Coding/grand-circus/back-end/unit1/deliverable2/csharp-deliverable2/deliverable2/obj/Debug/net7.0/deliverable2.csproj.CoreCompileInputs.cache
+/Users/doug/Documents/Coding/grand-circus/back-end/unit1/deliverable2/csharp-deliverable2/deliverable2/obj/Debug/net7.0/deliverable2.dll
+/Users/doug/Documents/Coding/grand-circus/back-end/unit1/deliverable2/csharp-deliverable2/deliverable2/obj/Debug/net7.0/refint/deliverable2.dll
+/Users/doug/Documents/Coding/grand-circus/back-end/unit1/deliverable2/csharp-deliverable2/deliverable2/obj/Debug/net7.0/deliverable2.pdb
+/Users/doug/Documents/Coding/grand-circus/back-end/unit1/deliverable2/csharp-deliverable2/deliverable2/obj/Debug/net7.0/deliverable2.genruntimeconfig.cache
+/Users/doug/Documents/Coding/grand-circus/back-end/unit1/deliverable2/csharp-deliverable2/deliverable2/obj/Debug/net7.0/ref/deliverable2.dll
